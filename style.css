@@ -1,0 +1,78 @@
+*
+{
+    box-sizing: border-box;
+    background-color: burlywood;
+
+    margin: 0;
+}
+
+.h1-heading
+{
+    background-color: orange;
+    color: yellow;
+    font-family: Helvetica,Arial,  sans-serif;
+    font-size: 60px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    width: 100%;
+    position: fixed;
+}
+
+.below-body
+{
+    margin: 80px 10px 25px;
+    position: absolute;
+}
+
+.recepie-link
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /*color: brown;*/
+}
+
+.description
+{
+    margin: 10px 0px 10px;
+    /*font-family: 'Courier New', Courier, monospace;*/
+    color: bisque;
+    background-color: brown;
+}
+
+ .ingredients
+ {
+    padding: 10px 0px 10px;
+    color: white;
+    background-color: palevioletred;
+    margin-top: 15px;
+ }
+
+ .steps
+ {
+    color: chocolate;
+    background-color:greenyellow;
+ }
+
+.list
+{
+    line-height: 25px;
+    margin: 15px;
+    width: 95%;
+}
+
+.unordered-recepie
+{
+    color: blueviolet;
+}
+
+.tandoori,
+.tortelinni
+{
+    color: red;
+    margin-bottom: 15px;
+
+}
+
+/* .homepage{ I have to move this to the center of the screen
+    
+    padding: 10px;
+} */
